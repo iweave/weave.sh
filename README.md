@@ -1,4 +1,4 @@
 # weave.sh
 Basic website
 
-Development happening on [http://pebbles.weave.sh](http://pebbles.weave.sh)
+Development happening on [https://pebbles.weave.sh](https://pebbles.weave.sh)
